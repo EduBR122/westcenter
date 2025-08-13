@@ -1,6 +1,5 @@
 @media (max-width: 450px) {
-    west-center {
+    .navbar-brand {
         color: red;
     }
 }
-
