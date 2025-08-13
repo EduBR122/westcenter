@@ -1,3 +1,6 @@
 @media (max-width: 450px) {
-    
+    west-center {
+        color: red;
+    }
 }
+
