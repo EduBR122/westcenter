@@ -1,0 +1,13 @@
+@media screen and (max-width:1020px){
+#carros-1 {
+    width: 50%;
+    height: 200px;
+}
+#carouselExampleCaptions {
+    width: 100%;
+    height: 200px;
+}
+text {
+    font-size: 20px;                
+}
+}
